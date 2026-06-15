@@ -1,0 +1,14 @@
+# Gradle
+.gradle
+**/build/
+!src/**/build/
+
+# IDE
+.idea/
+*.iml
+
+# Kotlin
+.kotlin/
+
+# OS
+.DS_Store
